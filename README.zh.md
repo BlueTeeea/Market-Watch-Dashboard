@@ -30,7 +30,7 @@
 
 1. 在浏览器中安装 [Tampermonkey](https://www.tampermonkey.net/)。
 2. 安装发布版脚本：
-  **[安装 dist/market-watch.v0.5.3.js](./dist/market-watch.v0.5.3.js?raw=1)**
+  **[安装 Market Watch Dashboard](./dist/market-watch.user.js?raw=1)**
 3. 在同一个浏览器配置中打开 Schwab 或 IBKR。
 4. 点击页面上的悬浮分析按钮，打开面板。
 

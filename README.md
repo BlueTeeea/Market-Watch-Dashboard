@@ -33,7 +33,7 @@ The script can pull data from Schwab, IBKR, and optional AI providers depending 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
 2. Install the published script:
 
-   **[Install dist/market-watch.v0.5.3.js](./dist/market-watch.v0.5.3.js?raw=1)**
+   **[Install Market Watch Dashboard](./dist/market-watch.user.js?raw=1)**
 
 3. Open either Schwab or IBKR in the same browser profile.
 4. Click the floating analytics button to open the dashboard.

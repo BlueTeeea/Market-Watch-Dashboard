@@ -4,9 +4,10 @@
 # Node.js dependencies
 node_modules/
 
-# Userscript source and generated releases
-/market-watch.v0.5.3.js
-*.user.js
+# Userscript source (private)
+src/
+
+# Build tools
 scripts/
 
 # Local npm artifacts
