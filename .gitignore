@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Userscript source and generated releases
+/market-watch.v0.5.3.js
+*.user.js
+scripts/
+
+# Local npm artifacts
+package.json
+package-lock.json
